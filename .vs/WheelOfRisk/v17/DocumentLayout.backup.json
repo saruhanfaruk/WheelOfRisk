@@ -1,0 +1,209 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UnityProjeler\\WheelOfRisk\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35C5AEDE-E079-12CD-943D-231029DD640B}|Assembly-CSharp.csproj|d:\\unityprojeler\\wheelofrisk\\assets\\scripts\\rewardsystem\\rewardtypes\\basereward.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35C5AEDE-E079-12CD-943D-231029DD640B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\rewardsystem\\rewardtypes\\basereward.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35C5AEDE-E079-12CD-943D-231029DD640B}|Assembly-CSharp.csproj|d:\\unityprojeler\\wheelofrisk\\assets\\scripts\\rewardsystem\\rewardtypes\\bombreward.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35C5AEDE-E079-12CD-943D-231029DD640B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\rewardsystem\\rewardtypes\\bombreward.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35C5AEDE-E079-12CD-943D-231029DD640B}|Assembly-CSharp.csproj|d:\\unityprojeler\\wheelofrisk\\assets\\scripts\\rewardsystem\\rewardtypes\\bayonetreward.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35C5AEDE-E079-12CD-943D-231029DD640B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\rewardsystem\\rewardtypes\\bayonetreward.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35C5AEDE-E079-12CD-943D-231029DD640B}|Assembly-CSharp.csproj|d:\\unityprojeler\\wheelofrisk\\assets\\scripts\\level\\levelscrollcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35C5AEDE-E079-12CD-943D-231029DD640B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\level\\levelscrollcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35C5AEDE-E079-12CD-943D-231029DD640B}|Assembly-CSharp.csproj|d:\\unityprojeler\\wheelofrisk\\assets\\scripts\\level\\levelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35C5AEDE-E079-12CD-943D-231029DD640B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\level\\levelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35C5AEDE-E079-12CD-943D-231029DD640B}|Assembly-CSharp.csproj|d:\\unityprojeler\\wheelofrisk\\assets\\scripts\\level\\levelitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35C5AEDE-E079-12CD-943D-231029DD640B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\level\\levelitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35C5AEDE-E079-12CD-943D-231029DD640B}|Assembly-CSharp.csproj|d:\\unityprojeler\\wheelofrisk\\assets\\scripts\\earnedrewardpool\\earnedrewardpoolslicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35C5AEDE-E079-12CD-943D-231029DD640B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\earnedrewardpool\\earnedrewardpoolslicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35C5AEDE-E079-12CD-943D-231029DD640B}|Assembly-CSharp.csproj|d:\\unityprojeler\\wheelofrisk\\assets\\scripts\\earnedrewardpool\\earnedrewardpoolmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35C5AEDE-E079-12CD-943D-231029DD640B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\earnedrewardpool\\earnedrewardpoolmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35C5AEDE-E079-12CD-943D-231029DD640B}|Assembly-CSharp.csproj|d:\\unityprojeler\\wheelofrisk\\assets\\scripts\\ui\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35C5AEDE-E079-12CD-943D-231029DD640B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35C5AEDE-E079-12CD-943D-231029DD640B}|Assembly-CSharp.csproj|d:\\unityprojeler\\wheelofrisk\\assets\\scripts\\gamesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35C5AEDE-E079-12CD-943D-231029DD640B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35C5AEDE-E079-12CD-943D-231029DD640B}|Assembly-CSharp.csproj|D:\\UnityProjeler\\WheelOfRisk\\assets\\scripts\\spin\\spinrewardconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35C5AEDE-E079-12CD-943D-231029DD640B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spin\\spinrewardconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GameSettings.cs",
+              "DocumentMoniker": "D:\\UnityProjeler\\WheelOfRisk\\Assets\\Scripts\\GameSettings.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameSettings.cs",
+              "ToolTip": "D:\\UnityProjeler\\WheelOfRisk\\Assets\\Scripts\\GameSettings.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T17:57:02.432Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SpinRewardConfig.cs",
+              "DocumentMoniker": "D:\\UnityProjeler\\WheelOfRisk\\Assets\\Scripts\\Spin\\SpinRewardConfig.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Spin\\SpinRewardConfig.cs",
+              "ToolTip": "D:\\UnityProjeler\\WheelOfRisk\\Assets\\Scripts\\Spin\\SpinRewardConfig.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Spin\\SpinRewardConfig.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T16:38:44.431Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BaseReward.cs",
+              "DocumentMoniker": "D:\\UnityProjeler\\WheelOfRisk\\Assets\\Scripts\\RewardSystem\\RewardTypes\\BaseReward.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RewardSystem\\RewardTypes\\BaseReward.cs",
+              "ToolTip": "D:\\UnityProjeler\\WheelOfRisk\\Assets\\Scripts\\RewardSystem\\RewardTypes\\BaseReward.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RewardSystem\\RewardTypes\\BaseReward.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T18:24:43.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BombReward.cs",
+              "DocumentMoniker": "D:\\UnityProjeler\\WheelOfRisk\\Assets\\Scripts\\RewardSystem\\RewardTypes\\BombReward.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RewardSystem\\RewardTypes\\BombReward.cs",
+              "ToolTip": "D:\\UnityProjeler\\WheelOfRisk\\Assets\\Scripts\\RewardSystem\\RewardTypes\\BombReward.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RewardSystem\\RewardTypes\\BombReward.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T18:24:37.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BayonetReward.cs",
+              "DocumentMoniker": "D:\\UnityProjeler\\WheelOfRisk\\Assets\\Scripts\\RewardSystem\\RewardTypes\\BayonetReward.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RewardSystem\\RewardTypes\\BayonetReward.cs",
+              "ToolTip": "D:\\UnityProjeler\\WheelOfRisk\\Assets\\Scripts\\RewardSystem\\RewardTypes\\BayonetReward.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RewardSystem\\RewardTypes\\BayonetReward.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T18:20:58.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LevelScrollController.cs",
+              "DocumentMoniker": "D:\\UnityProjeler\\WheelOfRisk\\Assets\\Scripts\\Level\\LevelScrollController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Level\\LevelScrollController.cs",
+              "ToolTip": "D:\\UnityProjeler\\WheelOfRisk\\Assets\\Scripts\\Level\\LevelScrollController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Level\\LevelScrollController.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T18:20:48.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LevelManager.cs",
+              "DocumentMoniker": "D:\\UnityProjeler\\WheelOfRisk\\Assets\\Scripts\\Level\\LevelManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Level\\LevelManager.cs",
+              "ToolTip": "D:\\UnityProjeler\\WheelOfRisk\\Assets\\Scripts\\Level\\LevelManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Level\\LevelManager.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowB8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T18:20:28.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LevelItemController.cs",
+              "DocumentMoniker": "D:\\UnityProjeler\\WheelOfRisk\\Assets\\Scripts\\Level\\LevelItemController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Level\\LevelItemController.cs",
+              "ToolTip": "D:\\UnityProjeler\\WheelOfRisk\\Assets\\Scripts\\Level\\LevelItemController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Level\\LevelItemController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T18:20:22.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EarnedRewardPoolSliceController.cs",
+              "DocumentMoniker": "D:\\UnityProjeler\\WheelOfRisk\\Assets\\Scripts\\EarnedRewardPool\\EarnedRewardPoolSliceController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EarnedRewardPool\\EarnedRewardPoolSliceController.cs",
+              "ToolTip": "D:\\UnityProjeler\\WheelOfRisk\\Assets\\Scripts\\EarnedRewardPool\\EarnedRewardPoolSliceController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EarnedRewardPool\\EarnedRewardPoolSliceController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T18:20:15.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EarnedRewardPoolManager.cs",
+              "DocumentMoniker": "D:\\UnityProjeler\\WheelOfRisk\\Assets\\Scripts\\EarnedRewardPool\\EarnedRewardPoolManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EarnedRewardPool\\EarnedRewardPoolManager.cs",
+              "ToolTip": "D:\\UnityProjeler\\WheelOfRisk\\Assets\\Scripts\\EarnedRewardPool\\EarnedRewardPoolManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EarnedRewardPool\\EarnedRewardPoolManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T18:19:59.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "D:\\UnityProjeler\\WheelOfRisk\\Assets\\Scripts\\UI\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\UIManager.cs",
+              "ToolTip": "D:\\UnityProjeler\\WheelOfRisk\\Assets\\Scripts\\UI\\UIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\UIManager.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAYwEEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T18:10:58.435Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

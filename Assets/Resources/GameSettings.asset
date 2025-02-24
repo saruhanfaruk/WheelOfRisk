@@ -1,0 +1,218 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c355db263052c9408cfdf42acc22b86, type: 3}
+  m_Name: GameSettings
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: spinNameDetails
+      Entry: 7
+      Data: 0|System.Collections.Generic.Dictionary`2[[SpinType, Assembly-CSharp],[SpinNameDetail,
+        Assembly-CSharp]], mscorlib
+    - Name: comparer
+      Entry: 7
+      Data: 1|System.Collections.Generic.EnumEqualityComparer`1[[SpinType, Assembly-CSharp]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 0
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 12
+      Data: 3
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 0
+    - Name: $v
+      Entry: 7
+      Data: 2|SpinNameDetail, Assembly-CSharp
+    - Name: spinName
+      Entry: 1
+      Data: BRONZE SPIN
+    - Name: spinTextColor
+      Entry: 7
+      Data: UnityEngine.Color, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: 0.8392157
+    - Name: 
+      Entry: 4
+      Data: 0.454901963
+    - Name: 
+      Entry: 4
+      Data: 0.09411765
+    - Name: 
+      Entry: 4
+      Data: 1
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 1
+    - Name: $v
+      Entry: 7
+      Data: 3|SpinNameDetail, Assembly-CSharp
+    - Name: spinName
+      Entry: 1
+      Data: SILVER SPIN
+    - Name: spinTextColor
+      Entry: 7
+      Data: UnityEngine.Color, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: 0.482352972
+    - Name: 
+      Entry: 4
+      Data: 0.4784314
+    - Name: 
+      Entry: 4
+      Data: 0.482352972
+    - Name: 
+      Entry: 4
+      Data: 1
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 2
+    - Name: $v
+      Entry: 7
+      Data: 4|SpinNameDetail, Assembly-CSharp
+    - Name: spinName
+      Entry: 1
+      Data: GOLDEN SPIN
+    - Name: spinTextColor
+      Entry: 7
+      Data: UnityEngine.Color, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: 0.7798742
+    - Name: 
+      Entry: 4
+      Data: 0.72839874
+    - Name: 
+      Entry: 4
+      Data: 0.179027617
+    - Name: 
+      Entry: 4
+      Data: 1
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+  rewardPoolingDuration: 0.7
+  rewardCloneCount: 7
+  spinDuration: 1.5
+  spinRotationCount: 3
+  spinCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0.4713799
+      outSlope: 0.4713799
+      tangentMode: 34
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.18091498
+      value: 0.08527969
+      inSlope: 1.0895663
+      outSlope: 1.0895663
+      tangentMode: 34
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.6352461
+      value: 0.8611649
+      inSlope: 0.7610497
+      outSlope: 0.7610497
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33026066
+    - serializedVersion: 3
+      time: 0.88353777
+      value: 0.9837112
+      inSlope: 0.25789163
+      outSlope: 0.25789163
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: 0.13986352
+      outSlope: 0.13986352
+      tangentMode: 34
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spinSliceAnimationStartTime: 0.35
+  reviveCosts: 0a00000064000000e803000010270000
+  maxLevel: 60
+  silverSpinLevelInterval: 5
+  goldSpinLevelInterval: 30
+  levelScrollDuration: 1

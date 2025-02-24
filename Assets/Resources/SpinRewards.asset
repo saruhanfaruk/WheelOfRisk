@@ -1,0 +1,162 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23521d858e4893d409b88fcb98d55ddf, type: 3}
+  m_Name: SpinRewards
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  spinRewardEntry:
+  - spinType: 0
+    spinReward:
+    - order: 0
+      spinType: 0
+      rewardItems:
+      - {fileID: 11400000, guid: 970911fc089d29c4fb6fb9c9ae54a6a5, type: 2}
+      - {fileID: 11400000, guid: 213042f949347ea49988de6a7e6e49f5, type: 2}
+      - {fileID: 11400000, guid: 12a96a10e0973264dab6577f425b6a4b, type: 2}
+      - {fileID: 11400000, guid: 803c77b3a1cf4a2448fe60d5c5077621, type: 2}
+      - {fileID: 11400000, guid: bcc12d8956e0e1a4ba298082c5c1fe18, type: 2}
+      - {fileID: 11400000, guid: 911598248f652d642b70dc2be24e8d9d, type: 2}
+      - {fileID: 11400000, guid: c3dfb6019a464c541b8657919ac2456e, type: 2}
+      - {fileID: 11400000, guid: 8da86b69727d0b044bb019df07bf9d8b, type: 2}
+    - order: 1
+      spinType: 0
+      rewardItems:
+      - {fileID: 11400000, guid: 970911fc089d29c4fb6fb9c9ae54a6a5, type: 2}
+      - {fileID: 11400000, guid: e2c4aa4e235a7e746ad97c94b7f06efa, type: 2}
+      - {fileID: 11400000, guid: bf8e67f6fbb11b84c8e906a04c214d50, type: 2}
+      - {fileID: 11400000, guid: 213042f949347ea49988de6a7e6e49f5, type: 2}
+      - {fileID: 11400000, guid: d90139d7a23aabd4c8ba5242fe4f2cf2, type: 2}
+      - {fileID: 11400000, guid: 803c77b3a1cf4a2448fe60d5c5077621, type: 2}
+      - {fileID: 11400000, guid: a3e83f1c464c778428de86e22353c92d, type: 2}
+      - {fileID: 11400000, guid: 21ae3e53922bf9d47894fc8dbc884000, type: 2}
+    - order: 2
+      spinType: 0
+      rewardItems:
+      - {fileID: 11400000, guid: 970911fc089d29c4fb6fb9c9ae54a6a5, type: 2}
+      - {fileID: 11400000, guid: 64236b5d0962dfb43a8ea8bfb84170db, type: 2}
+      - {fileID: 11400000, guid: 213042f949347ea49988de6a7e6e49f5, type: 2}
+      - {fileID: 11400000, guid: a3e83f1c464c778428de86e22353c92d, type: 2}
+      - {fileID: 11400000, guid: e2c4aa4e235a7e746ad97c94b7f06efa, type: 2}
+      - {fileID: 11400000, guid: 9e6ffc8ecc31d2f478b349afc14cfcdc, type: 2}
+      - {fileID: 11400000, guid: 1b428fed784387440beda715e5f12f70, type: 2}
+      - {fileID: 11400000, guid: 1cc4015278604ae478bf76d5c3b2cc9e, type: 2}
+    - order: 3
+      spinType: 0
+      rewardItems:
+      - {fileID: 11400000, guid: 970911fc089d29c4fb6fb9c9ae54a6a5, type: 2}
+      - {fileID: 11400000, guid: 8da86b69727d0b044bb019df07bf9d8b, type: 2}
+      - {fileID: 11400000, guid: 213042f949347ea49988de6a7e6e49f5, type: 2}
+      - {fileID: 11400000, guid: bcc12d8956e0e1a4ba298082c5c1fe18, type: 2}
+      - {fileID: 11400000, guid: 7167480072097e649b3dbd9686da723d, type: 2}
+      - {fileID: 11400000, guid: 19918d855b4af6f4fac4b57dc241819a, type: 2}
+      - {fileID: 11400000, guid: 840f816df797a3f46a6206b3c4706543, type: 2}
+      - {fileID: 11400000, guid: 90bda0b5d64ce884d94d589a4f87b10c, type: 2}
+    - order: 4
+      spinType: 0
+      rewardItems:
+      - {fileID: 11400000, guid: 970911fc089d29c4fb6fb9c9ae54a6a5, type: 2}
+      - {fileID: 11400000, guid: d90139d7a23aabd4c8ba5242fe4f2cf2, type: 2}
+      - {fileID: 11400000, guid: 213042f949347ea49988de6a7e6e49f5, type: 2}
+      - {fileID: 11400000, guid: 21ae3e53922bf9d47894fc8dbc884000, type: 2}
+      - {fileID: 11400000, guid: 803c77b3a1cf4a2448fe60d5c5077621, type: 2}
+      - {fileID: 11400000, guid: 213042f949347ea49988de6a7e6e49f5, type: 2}
+      - {fileID: 11400000, guid: 2876b3eeee822f64a840825af30f40c6, type: 2}
+      - {fileID: 11400000, guid: bea2401844c467d468a2709c66f68526, type: 2}
+  - spinType: 1
+    spinReward:
+    - order: 0
+      spinType: 1
+      rewardItems:
+      - {fileID: 11400000, guid: 803c77b3a1cf4a2448fe60d5c5077621, type: 2}
+      - {fileID: 11400000, guid: 21ae3e53922bf9d47894fc8dbc884000, type: 2}
+      - {fileID: 11400000, guid: 9e6ffc8ecc31d2f478b349afc14cfcdc, type: 2}
+      - {fileID: 11400000, guid: 889ec4e9b86e6c34ca3540eeff3a9117, type: 2}
+      - {fileID: 11400000, guid: 8da86b69727d0b044bb019df07bf9d8b, type: 2}
+      - {fileID: 11400000, guid: 264e3caf30cccb846ace4b99ba4ccf22, type: 2}
+      - {fileID: 11400000, guid: 7167480072097e649b3dbd9686da723d, type: 2}
+      - {fileID: 11400000, guid: 4030fa0a6d08b6143a36f094925f82d1, type: 2}
+    - order: 1
+      spinType: 1
+      rewardItems:
+      - {fileID: 11400000, guid: 90bda0b5d64ce884d94d589a4f87b10c, type: 2}
+      - {fileID: 11400000, guid: 2876b3eeee822f64a840825af30f40c6, type: 2}
+      - {fileID: 11400000, guid: 1b428fed784387440beda715e5f12f70, type: 2}
+      - {fileID: 11400000, guid: 21ae3e53922bf9d47894fc8dbc884000, type: 2}
+      - {fileID: 11400000, guid: 213042f949347ea49988de6a7e6e49f5, type: 2}
+      - {fileID: 11400000, guid: 4c543ded42e4d2b469d9d0d3cf3dfee9, type: 2}
+      - {fileID: 11400000, guid: a3e83f1c464c778428de86e22353c92d, type: 2}
+      - {fileID: 11400000, guid: 803c77b3a1cf4a2448fe60d5c5077621, type: 2}
+    - order: 2
+      spinType: 1
+      rewardItems:
+      - {fileID: 11400000, guid: 9e6ffc8ecc31d2f478b349afc14cfcdc, type: 2}
+      - {fileID: 11400000, guid: 213042f949347ea49988de6a7e6e49f5, type: 2}
+      - {fileID: 11400000, guid: 64236b5d0962dfb43a8ea8bfb84170db, type: 2}
+      - {fileID: 11400000, guid: 213042f949347ea49988de6a7e6e49f5, type: 2}
+      - {fileID: 11400000, guid: 2539c166fe6ed054e86606f1e059d059, type: 2}
+      - {fileID: 11400000, guid: d90139d7a23aabd4c8ba5242fe4f2cf2, type: 2}
+      - {fileID: 11400000, guid: 72955f08d87d859468edfd81cb2930d6, type: 2}
+      - {fileID: 11400000, guid: 1b428fed784387440beda715e5f12f70, type: 2}
+  - spinType: 2
+    spinReward:
+    - order: 0
+      spinType: 2
+      rewardItems:
+      - {fileID: 11400000, guid: 4030fa0a6d08b6143a36f094925f82d1, type: 2}
+      - {fileID: 11400000, guid: e2c4aa4e235a7e746ad97c94b7f06efa, type: 2}
+      - {fileID: 11400000, guid: 7167480072097e649b3dbd9686da723d, type: 2}
+      - {fileID: 11400000, guid: 19918d855b4af6f4fac4b57dc241819a, type: 2}
+      - {fileID: 11400000, guid: 12a96a10e0973264dab6577f425b6a4b, type: 2}
+      - {fileID: 11400000, guid: 1b428fed784387440beda715e5f12f70, type: 2}
+      - {fileID: 11400000, guid: 64236b5d0962dfb43a8ea8bfb84170db, type: 2}
+      - {fileID: 11400000, guid: 19918d855b4af6f4fac4b57dc241819a, type: 2}
+    - order: 1
+      spinType: 2
+      rewardItems:
+      - {fileID: 11400000, guid: 840f816df797a3f46a6206b3c4706543, type: 2}
+      - {fileID: 11400000, guid: 72955f08d87d859468edfd81cb2930d6, type: 2}
+      - {fileID: 11400000, guid: 840f816df797a3f46a6206b3c4706543, type: 2}
+      - {fileID: 11400000, guid: 889ec4e9b86e6c34ca3540eeff3a9117, type: 2}
+      - {fileID: 11400000, guid: 2539c166fe6ed054e86606f1e059d059, type: 2}
+      - {fileID: 11400000, guid: 21ae3e53922bf9d47894fc8dbc884000, type: 2}
+      - {fileID: 11400000, guid: 911598248f652d642b70dc2be24e8d9d, type: 2}
+      - {fileID: 11400000, guid: 12a96a10e0973264dab6577f425b6a4b, type: 2}
+    - order: 2
+      spinType: 2
+      rewardItems:
+      - {fileID: 11400000, guid: 213042f949347ea49988de6a7e6e49f5, type: 2}
+      - {fileID: 11400000, guid: 889ec4e9b86e6c34ca3540eeff3a9117, type: 2}
+      - {fileID: 11400000, guid: c3dfb6019a464c541b8657919ac2456e, type: 2}
+      - {fileID: 11400000, guid: 2876b3eeee822f64a840825af30f40c6, type: 2}
+      - {fileID: 11400000, guid: 4c543ded42e4d2b469d9d0d3cf3dfee9, type: 2}
+      - {fileID: 11400000, guid: 64236b5d0962dfb43a8ea8bfb84170db, type: 2}
+      - {fileID: 11400000, guid: 7167480072097e649b3dbd9686da723d, type: 2}
+      - {fileID: 11400000, guid: 911598248f652d642b70dc2be24e8d9d, type: 2}
+    - order: 3
+      spinType: 2
+      rewardItems:
+      - {fileID: 11400000, guid: 1b428fed784387440beda715e5f12f70, type: 2}
+      - {fileID: 11400000, guid: c3dfb6019a464c541b8657919ac2456e, type: 2}
+      - {fileID: 11400000, guid: 8da86b69727d0b044bb019df07bf9d8b, type: 2}
+      - {fileID: 11400000, guid: 264e3caf30cccb846ace4b99ba4ccf22, type: 2}
+      - {fileID: 11400000, guid: 2876b3eeee822f64a840825af30f40c6, type: 2}
+      - {fileID: 11400000, guid: bcc12d8956e0e1a4ba298082c5c1fe18, type: 2}
+      - {fileID: 11400000, guid: 213042f949347ea49988de6a7e6e49f5, type: 2}
+      - {fileID: 11400000, guid: 21ae3e53922bf9d47894fc8dbc884000, type: 2}

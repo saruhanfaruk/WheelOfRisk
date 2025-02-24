@@ -1,0 +1,118 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: RewardAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 2
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 03377f1e8bd56af4696f2b21bdc490ba, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 7fa74d807af526a4bbd54b996dabc28b, type: 3}
+  - {fileID: 21300000, guid: 40b7fcb09c9febf4785e28de197cf47e, type: 3}
+  - {fileID: 21300000, guid: 326f2b81bc7dca84e9ff25e187f538ef, type: 3}
+  - {fileID: 21300000, guid: cf275e02a9aad3a46bcfdee0f3fe84a1, type: 3}
+  - {fileID: 21300000, guid: d71874124a7dcf14ab356847320df520, type: 3}
+  - {fileID: 21300000, guid: 82f5cd12df8187e4bbbfa3a685c0d683, type: 3}
+  - {fileID: 21300000, guid: 0d543962b94a7bf42ba0d5554055f4ac, type: 3}
+  - {fileID: 21300000, guid: 04e91a720f26c3341a935514e19ff053, type: 3}
+  - {fileID: 21300000, guid: 054fffa2c7723314293ecd061da1f46c, type: 3}
+  - {fileID: 21300000, guid: 5cec72b2a1a4b65459cd02e833745500, type: 3}
+  - {fileID: 21300000, guid: 2b708d833f71b7e44ae24ae1e75f4e9e, type: 3}
+  - {fileID: 21300000, guid: ecb367932177eb84fac52b9a0abfe1e0, type: 3}
+  - {fileID: 21300000, guid: 83d65d7470521894cb7c5845ea25d210, type: 3}
+  - {fileID: 21300000, guid: 19dbd576663cc674c899afa214a6bb3f, type: 3}
+  - {fileID: 21300000, guid: ebe58c3760345504c9e926391ddb2ed4, type: 3}
+  - {fileID: 21300000, guid: 450f7af70c15a0e49bbe1deb37de6f0a, type: 3}
+  - {fileID: 21300000, guid: ab0b6f581b48a1f45b330e2d9c17ebdb, type: 3}
+  - {fileID: 21300000, guid: 14a7aee8f7cc7ec4f85e741bff0193d1, type: 3}
+  - {fileID: 21300000, guid: 5915b2f8260dc12488ca1d20dca2d8c0, type: 3}
+  - {fileID: 21300000, guid: 45430b7bbada0a645a0521ca4af389a3, type: 3}
+  - {fileID: 21300000, guid: b4f8113c14d4551439c767c85a31356c, type: 3}
+  - {fileID: 21300000, guid: d336863ca99230441b0ed8c4ddd5e0f5, type: 3}
+  - {fileID: 21300000, guid: 63958d4c21e35b0458d51f17f58dde09, type: 3}
+  - {fileID: 21300000, guid: 1814923de86f60a4e905cd46ede60917, type: 3}
+  - {fileID: 21300000, guid: 498c857d41588ab42933771aa01629cf, type: 3}
+  - {fileID: 21300000, guid: 11382d2ea9f72f0479a884047da24447, type: 3}
+  - {fileID: 21300000, guid: 4641339e364873c4e980a52c11fc8b07, type: 3}
+  - {fileID: 21300000, guid: a8c96fced1288044397c08c190d9b765, type: 3}
+  - {fileID: 21300000, guid: 5444154f66b5af842a436dfded26006c, type: 3}
+  - {fileID: 21300000, guid: 4d79077f1d2833f468a1abf40deed3c2, type: 3}
+  - {fileID: 21300000, guid: 0f8b1c7f21b24d84c8f76a6f0e1f4493, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - UI_Icons_SMG_Points
+  - UI_Icon_Renders_tier1_shotgun
+  - UI_icon_chest_Bronze_nolight
+  - UI_Icon_Renders_tier3_smg
+  - UI_Icons_Vest_Points
+  - ui_card_icon_death
+  - UI_Icons_Submachine_Points
+  - ui_icon_baseball_cap_easter
+  - UI_Icons_Pistol_Points
+  - UI_icon_chest_gold_nolight
+  - UI_Icons_Sniper_Points
+  - UI_Icons_Shotgun_Points
+  - UI_Icon_Renders_tier3_shotgun
+  - UI_icon_chest_big_nolight
+  - UI_icon_cash
+  - UI_icon_chest_small_noligt
+  - UI_icon_gold
+  - ui_icon_mle_bayonet_easter_time
+  - ui_icon_render_cons_grenade_m67
+  - UI_Icons_Knife_Points
+  - UI_Icon_Renders_tier3_sniper
+  - ui_icon_aviator_glasses_easter
+  - UI_icon_chest_silver_nolight
+  - UI_Icon_Renders_tier2_mle
+  - UI_Icon_Renders_tier2_rifle
+  - UI_icon_chest_standart_nolight
+  - ui_icon_mle_bayonet_summer_vice
+  - UI_icon_chest_super_nolight
+  - ui_icon_render_cons_grenade_m26
+  - UI_Icons_Rifle_Points
+  - UI_Icons_Armor_Points
+  m_RenderDataMap: {}
+  m_Tag: RewardAtlas
+  m_IsVariant: 0

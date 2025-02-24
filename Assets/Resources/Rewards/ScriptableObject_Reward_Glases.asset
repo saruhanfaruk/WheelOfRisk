@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed1748144d47bda4581c6e9996df4edd, type: 3}
+  m_Name: ScriptableObject_Reward_Glases
+  m_EditorClassIdentifier: 
+  rewardType: 3
+  rewardAtlasName: ui_icon_aviator_glasses_easter
+  weight: 1
+  isFixedAmount: 1
+  amount: 1
+  amounts: 
+  levelMultiplier: 1
+  isCustomHeight: 1
+  newCustomHeight: 1000

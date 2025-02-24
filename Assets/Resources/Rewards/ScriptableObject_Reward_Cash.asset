@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d569c1557290f004b8b31c4e8fc9aa50, type: 3}
+  m_Name: ScriptableObject_Reward_Cash
+  m_EditorClassIdentifier: 
+  rewardType: 1
+  rewardAtlasName: UI_icon_cash
+  weight: 1
+  isFixedAmount: 0
+  amount: 1
+  amounts: 64000000e803000020a10700
+  levelMultiplier: 1
