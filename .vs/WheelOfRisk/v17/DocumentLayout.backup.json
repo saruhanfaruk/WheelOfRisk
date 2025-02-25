@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\UnityProjeler\\WheelOfRisk\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{35C5AEDE-E079-12CD-943D-231029DD640B}|Assembly-CSharp.csproj|d:\\unityprojeler\\wheelofrisk\\assets\\scripts\\utils\\uipositionadjuster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35C5AEDE-E079-12CD-943D-231029DD640B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\utils\\uipositionadjuster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{35C5AEDE-E079-12CD-943D-231029DD640B}|Assembly-CSharp.csproj|D:\\UnityProjeler\\WheelOfRisk\\assets\\scripts\\earnedrewardpool\\earnedrewardpoolmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{35C5AEDE-E079-12CD-943D-231029DD640B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\earnedrewardpool\\earnedrewardpoolmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -70,11 +74,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "GameSettings.cs",
               "DocumentMoniker": "D:\\UnityProjeler\\WheelOfRisk\\Assets\\Scripts\\GameSettings.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameSettings.cs",
@@ -88,7 +92,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "SpinRewardConfig.cs",
               "DocumentMoniker": "D:\\UnityProjeler\\WheelOfRisk\\Assets\\Scripts\\Spin\\SpinRewardConfig.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Spin\\SpinRewardConfig.cs",
@@ -102,7 +106,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "LevelItemController.cs",
               "DocumentMoniker": "D:\\UnityProjeler\\WheelOfRisk\\Assets\\Scripts\\Level\\LevelItemController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Level\\LevelItemController.cs",
@@ -116,7 +120,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "UIPositionAdjuster.cs",
+              "DocumentMoniker": "D:\\UnityProjeler\\WheelOfRisk\\Assets\\Scripts\\Utils\\UIPositionAdjuster.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Utils\\UIPositionAdjuster.cs",
+              "ToolTip": "D:\\UnityProjeler\\WheelOfRisk\\Assets\\Scripts\\Utils\\UIPositionAdjuster.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Utils\\UIPositionAdjuster.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAzwCIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T08:09:13.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "SpinController.cs",
               "DocumentMoniker": "D:\\UnityProjeler\\WheelOfRisk\\Assets\\Scripts\\Spin\\SpinController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Spin\\SpinController.cs",
@@ -129,7 +146,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "UIManager.cs",
               "DocumentMoniker": "D:\\UnityProjeler\\WheelOfRisk\\Assets\\Scripts\\UI\\UIManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\UIManager.cs",
@@ -142,7 +159,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "GameManager.cs",
               "DocumentMoniker": "D:\\UnityProjeler\\WheelOfRisk\\Assets\\Scripts\\GameManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
@@ -155,20 +172,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "EarnedRewardPoolManager.cs",
               "DocumentMoniker": "D:\\UnityProjeler\\WheelOfRisk\\Assets\\Scripts\\EarnedRewardPool\\EarnedRewardPoolManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\EarnedRewardPool\\EarnedRewardPoolManager.cs",
               "ToolTip": "D:\\UnityProjeler\\WheelOfRisk\\Assets\\Scripts\\EarnedRewardPool\\EarnedRewardPoolManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\EarnedRewardPool\\EarnedRewardPoolManager.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAwD4AAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAwEAAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-24T18:19:59.133Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "SpinManager.cs",
               "DocumentMoniker": "D:\\UnityProjeler\\WheelOfRisk\\Assets\\Scripts\\Spin\\SpinManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Spin\\SpinManager.cs",
@@ -181,7 +198,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "LevelScrollController.cs",
               "DocumentMoniker": "D:\\UnityProjeler\\WheelOfRisk\\Assets\\Scripts\\Level\\LevelScrollController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Level\\LevelScrollController.cs",
@@ -194,7 +211,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "SpinSliceController.cs",
               "DocumentMoniker": "D:\\UnityProjeler\\WheelOfRisk\\Assets\\Scripts\\Spin\\SpinSliceController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Spin\\SpinSliceController.cs",
@@ -207,7 +224,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "LevelManager.cs",
               "DocumentMoniker": "D:\\UnityProjeler\\WheelOfRisk\\Assets\\Scripts\\Level\\LevelManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Level\\LevelManager.cs",
@@ -220,7 +237,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "BayonetReward.cs",
               "DocumentMoniker": "D:\\UnityProjeler\\WheelOfRisk\\Assets\\Scripts\\RewardSystem\\RewardTypes\\BayonetReward.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\RewardSystem\\RewardTypes\\BayonetReward.cs",
@@ -232,7 +249,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "BombReward.cs",
               "DocumentMoniker": "D:\\UnityProjeler\\WheelOfRisk\\Assets\\Scripts\\RewardSystem\\RewardTypes\\BombReward.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\RewardSystem\\RewardTypes\\BombReward.cs",
@@ -244,7 +261,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "BaseReward.cs",
               "DocumentMoniker": "D:\\UnityProjeler\\WheelOfRisk\\Assets\\Scripts\\RewardSystem\\RewardTypes\\BaseReward.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\RewardSystem\\RewardTypes\\BaseReward.cs",
@@ -256,7 +273,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "EarnedRewardPoolSliceController.cs",
               "DocumentMoniker": "D:\\UnityProjeler\\WheelOfRisk\\Assets\\Scripts\\EarnedRewardPool\\EarnedRewardPoolSliceController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\EarnedRewardPool\\EarnedRewardPoolSliceController.cs",
