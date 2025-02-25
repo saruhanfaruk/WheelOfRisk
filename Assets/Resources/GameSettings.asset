@@ -15,7 +15,10 @@ MonoBehaviour:
   serializationData:
     SerializedFormat: 2
     SerializedBytes: 
-    ReferencedUnityObjects: []
+    ReferencedUnityObjects:
+    - {fileID: 21300000, guid: 296f35c6eb470b74384366a4a71c0bcc, type: 3}
+    - {fileID: 21300000, guid: b0d873d3f7f36184ba314423f19ea87b, type: 3}
+    - {fileID: 21300000, guid: eab02c7b2cd948b4f917bb7a2e92a718, type: 3}
     SerializedBytesString: 
     Prefab: {fileID: 0}
     PrefabModificationsReferencedUnityObjects: []
@@ -155,6 +158,194 @@ MonoBehaviour:
     - Name: 
       Entry: 8
       Data: 
+    - Name: zoneStyles
+      Entry: 7
+      Data: 5|System.Collections.Generic.Dictionary`2[[ZoneType, Assembly-CSharp],[ZoneStyle,
+        Assembly-CSharp]], mscorlib
+    - Name: comparer
+      Entry: 7
+      Data: 6|System.Collections.Generic.EnumEqualityComparer`1[[ZoneType, Assembly-CSharp]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 0
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 12
+      Data: 3
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 0
+    - Name: $v
+      Entry: 7
+      Data: 7|ZoneStyle, Assembly-CSharp
+    - Name: unselectedLevelColor
+      Entry: 7
+      Data: UnityEngine.Color, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: 1
+    - Name: 
+      Entry: 4
+      Data: 1
+    - Name: 
+      Entry: 4
+      Data: 1
+    - Name: 
+      Entry: 4
+      Data: 1
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: selectedLevelBackground
+      Entry: 10
+      Data: 0
+    - Name: selectedLevelColor
+      Entry: 7
+      Data: UnityEngine.Color, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 4
+      Data: 1
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 1
+    - Name: $v
+      Entry: 7
+      Data: 8|ZoneStyle, Assembly-CSharp
+    - Name: unselectedLevelColor
+      Entry: 7
+      Data: UnityEngine.Color, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: 0.481481552
+    - Name: 
+      Entry: 4
+      Data: 1
+    - Name: 
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 4
+      Data: 1
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: selectedLevelBackground
+      Entry: 10
+      Data: 1
+    - Name: selectedLevelColor
+      Entry: 7
+      Data: UnityEngine.Color, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: 0.152941182
+    - Name: 
+      Entry: 4
+      Data: 1
+    - Name: 
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 4
+      Data: 1
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 2
+    - Name: $v
+      Entry: 7
+      Data: 9|ZoneStyle, Assembly-CSharp
+    - Name: unselectedLevelColor
+      Entry: 7
+      Data: UnityEngine.Color, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 4
+      Data: 0.527648449
+    - Name: 
+      Entry: 4
+      Data: 1
+    - Name: 
+      Entry: 4
+      Data: 1
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: selectedLevelBackground
+      Entry: 10
+      Data: 2
+    - Name: selectedLevelColor
+      Entry: 7
+      Data: UnityEngine.Color, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 4
+      Data: 0.9647059
+    - Name: 
+      Entry: 4
+      Data: 1
+    - Name: 
+      Entry: 4
+      Data: 1
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
   rewardPoolingDuration: 0.7
   rewardCloneCount: 7
   spinDuration: 1.5
@@ -215,4 +406,4 @@ MonoBehaviour:
   maxLevel: 60
   silverSpinLevelInterval: 5
   goldSpinLevelInterval: 30
-  levelScrollDuration: 1
+  levelScrollDuration: 0.95
