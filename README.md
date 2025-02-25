@@ -10,3 +10,5 @@ SpinRewards scriptableobjesinden spinde gelecek ödüller ayarlanıyor. Bronz ç
 
 Oyunun tüm ayarları GameSettings scriptableObjesinde yapılmaktadır. Herhangi bir scriptte ayar yapılmasına gerek yok.
 
+Oyun sonunda otomatik kazanılan gold hazneye eklenip oyun en baştan başlatılır.
+
