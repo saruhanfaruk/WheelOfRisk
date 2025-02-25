@@ -13,7 +13,7 @@ public class LevelManager : MonoBehaviour
     #endregion
 
     #region Unity Lifecycle Methods
-    private void Awake()
+    private async void Awake()
     {
         if (Instance != null && Instance != this)
         {
@@ -21,12 +21,10 @@ public class LevelManager : MonoBehaviour
             return;
         }
         Instance = this;
-    }
-
-    private void Start()
-    {
+        await new WaitForEndOfFrame();
         maxLevel = GameManager.Instance.gameSettings.maxLevel;
     }
+
     #endregion
 
     #region Level Management Methods

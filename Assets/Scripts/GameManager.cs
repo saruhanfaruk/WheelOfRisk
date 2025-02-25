@@ -21,13 +21,11 @@ public class GameManager : MonoBehaviour
         Instance = this;
         isFirstGame = true;
 
-        // Generate level prefabs when the game starts
-        scrollController.GenerateLevelPrefabs();
     }
 
     private void Start()
     {
-        // Start the level progression process
+        scrollController.GenerateLevelPrefabs();
         LevelProgressionController();
     }
     #endregion
