@@ -34,7 +34,7 @@ public class SpinManager : SerializedMonoBehaviour
     }
     private void Start()
     {
-        GameSettings gameSettings = GameManager.Instance.gameSettings;
+        GameSettings gameSettings = GameSettings.Instance;
         silverSpinLevelInterval = gameSettings.silverSpinLevelInterval;
         goldSpinLevelInterval = gameSettings.goldSpinLevelInterval;
     }

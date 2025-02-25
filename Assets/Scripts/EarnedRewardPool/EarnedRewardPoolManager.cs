@@ -60,7 +60,7 @@ public class EarnedRewardPoolManager : MonoBehaviour
     /// </summary>
     public void AnimateRewards(Vector3 startingPos, Image rewardImagePrefab, int amount)
     {
-        GameSettings gameSettings = GameManager.Instance.gameSettings;
+        GameSettings gameSettings = GameSettings.Instance;
         float totalDuration = gameSettings.rewardPoolingDuration;
         bool isCompleted = false;
         float radius = 80;

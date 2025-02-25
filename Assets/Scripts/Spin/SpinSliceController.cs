@@ -17,15 +17,16 @@ public class SpinSliceController : MonoBehaviour
     private Vector3 defRewardAmountScale;
 
     // Animation duration
-    public float animationDuration = .35f;
+    private float animationDuration = .35f;
 
     // Reward details
     private int rewardAmount;
-    public RewardType rewardType;
+    private RewardType rewardType;
+    public RewardType RewardType => rewardType;
     public int RewardAmount => rewardAmount;
 
     // Default height for reward image
-    public float defRewardImageHeight;
+    private float defRewardImageHeight;
     #endregion
 
     #region Unity Methods
@@ -42,7 +43,7 @@ public class SpinSliceController : MonoBehaviour
     private void Start()
     {
         // Get animation duration from game settings
-        animationDuration = GameManager.Instance.gameSettings.spinSliceAnimationStartTime;
+        animationDuration = GameSettings.Instance.spinSliceAnimationStartTime;
     }
     #endregion
 

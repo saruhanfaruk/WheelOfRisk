@@ -26,7 +26,7 @@ public class LevelScrollController : MonoBehaviour
 
     private void Start()
     {
-        scrollDuration = GameManager.Instance.gameSettings.levelScrollDuration;
+        scrollDuration = GameSettings.Instance.levelScrollDuration;
     }
     #endregion
 

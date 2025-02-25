@@ -8,9 +8,16 @@ public class LevelItemController : SerializedMonoBehaviour
     #region Fields
     private ZoneType activeZoneType;
     public ZoneType ActiveZoneType { get => activeZoneType; set { activeZoneType = value; } }
-    public Dictionary<ZoneType, ZoneStyle> zoneStyles = new Dictionary<ZoneType, ZoneStyle>();
+    Dictionary<ZoneType, ZoneStyle> zoneStyles;
     public TextMeshProUGUI levelText;
     public Image levelBackgroundImage;
+    #endregion
+
+    #region Unity Methods
+    private void Awake()
+    {
+        zoneStyles = GameSettings.Instance.zoneStyles;
+    }
     #endregion
 
     #region Public Methods

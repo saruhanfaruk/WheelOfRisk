@@ -3,7 +3,6 @@ using UnityEngine;
 public class GameManager : MonoBehaviour
 {
     #region Fields
-    public GameSettings gameSettings;
     private int lastReviveIndex;
     public static GameManager Instance;
     public LevelScrollController scrollController;
@@ -99,13 +98,13 @@ public class GameManager : MonoBehaviour
     // Gets the current revive cost based on the index
     public int GetReviveCost()
     {
-        return gameSettings.reviveCosts[lastReviveIndex];
+        return GameSettings.Instance.reviveCosts[lastReviveIndex];
     }
 
     // Increases the revive cost index for the next revive
     public void IncreaseReviveCostIndex()
     {
-        if (lastReviveIndex < gameSettings.reviveCosts.Count)
+        if (lastReviveIndex < GameSettings.Instance.reviveCosts.Count)
             lastReviveIndex++;
     }
     #endregion

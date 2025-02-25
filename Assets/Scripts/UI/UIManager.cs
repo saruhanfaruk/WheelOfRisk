@@ -64,7 +64,7 @@ public class UIManager : SerializedMonoBehaviour
     private void Start()
     {
         // Initialize UI elements
-        spinNameDetails = GameManager.Instance.gameSettings.spinNameDetails;
+        spinNameDetails = GameSettings.Instance.spinNameDetails;
         SetGoldText(PlayerPrefs.GetInt(GlobalUtils.goldPrefKey));
         GenerateSpinSlices();
         SetReviveCostText();
@@ -196,7 +196,7 @@ public class UIManager : SerializedMonoBehaviour
             startingPos,
             rewardImagePrefab,
             slices[targetRewardIndex].RewardAmount,
-            slices[targetRewardIndex].rewardType
+            slices[targetRewardIndex].RewardType
         );
     }
     #endregion

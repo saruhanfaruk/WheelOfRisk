@@ -22,7 +22,7 @@ public class LevelManager : MonoBehaviour
         }
         Instance = this;
         await new WaitForEndOfFrame();
-        maxLevel = GameManager.Instance.gameSettings.maxLevel;
+        maxLevel = GameSettings.Instance.maxLevel;
     }
 
     #endregion

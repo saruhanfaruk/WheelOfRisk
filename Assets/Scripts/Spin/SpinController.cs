@@ -22,7 +22,7 @@ public class SpinController : MonoBehaviour
     private void Start()
     {
         // Get settings from the game manager
-        GameSettings gameSettings = GameManager.Instance.gameSettings;
+        GameSettings gameSettings = GameSettings.Instance;
         spinSpriteAtlasData = SpinManager.Instance.spinSpriteAtlasData; // Get spin sprite data
         spinDuration = gameSettings.spinDuration; // Set spin duration
         rotationCount = gameSettings.spinRotationCount; // Set the number of rotations

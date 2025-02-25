@@ -34,5 +34,26 @@ public class GameSettings : SerializedScriptableObject
 
     [TabGroup("LevelScroll")]
     public float levelScrollDuration = 1f;
+    [TabGroup("LevelScroll")]
+    public Dictionary<ZoneType, ZoneStyle> zoneStyles = new Dictionary<ZoneType, ZoneStyle>();
+
+    private static GameSettings _instance;
+
+    public static GameSettings Instance
+    {
+        get
+        {
+            if (_instance == null)
+            {
+                _instance = Resources.Load<GameSettings>("GameSettings");
+                if (_instance == null)
+                {
+                    Debug.LogError("GameSettings asset is missing! Please create one in Resources folder.");
+                }
+            }
+            return _instance;
+        }
+    }
+
 
 }
