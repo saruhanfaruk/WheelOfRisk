@@ -1,3 +1,9 @@
+
+
+
+https://github.com/user-attachments/assets/c32e9c2a-e2ba-4a10-80f1-f2168cd2f863
+
+
 <img width="622" alt="RewardSetting" src="https://github.com/user-attachments/assets/7fe167e4-e5cf-4a05-9dfc-0d439765090a" />
 
 Ödül ayarlarını her ödül için açılmış scriptableobjesinden yapılabilir. Weight ayarı ile çarktaki gelme olasılığı arttırılabilir.
